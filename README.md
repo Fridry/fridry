@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there 👋
+
+I'm Fridry and this is a collection of words and numbers that usually end up being a 0 or 1.
 
 <!--
 **Fridry/fridry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
